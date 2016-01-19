@@ -28,10 +28,10 @@ and include the number of steps taken in 5 minute intervals each day.
 
 In this repository you will find :
 
-* A detailed report of the whole study can be found in the repository : "Daily_activity.md"
+* A detailed report of the whole study : "Daily_activity.md"
 * The source file of this report written in R markdown : "Daily_activity.Rmd"
 * The .zip and .csv files containing the activity data
-* A folder containing the different plots
+* A folder containing the different plots of the report
 * An HTML version of the report : "Daily_activity.html"
 
 ## Data
