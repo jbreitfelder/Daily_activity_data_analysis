@@ -1,11 +1,11 @@
----
-Title : Daily activity - Readme
-Author : Joanne Breitfelder
+
+## Daily activity - Readme
+## Author : Joanne Breitfelder
 
 Note : This project has been realised in the 
 framework of the Coursera online 
-specialisation in Data Science.
----
+specialisation in Data Science (Reproducible reasearch).
+
 
 ## Introduction
 
@@ -50,7 +50,7 @@ The dataset is stored in a comma-separated-value (CSV) file and there
 are a total of 17,568 observations.
 
 
-## Some details about the ata analysis
+## Some details about the data analysis...
 
 ### Loading and preprocessing the data
 
