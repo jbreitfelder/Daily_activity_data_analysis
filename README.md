@@ -27,6 +27,8 @@ day. The data consists of two months of data from an anonymous
 individual collected during the months of October and November, 2012
 and include the number of steps taken in 5 minute intervals each day.
 
+A detailed report of the whole study can be found in the repository : "Daily_activity.md"
+
 ## Data
 
 The data can be downloaded from the Coursera web site. They are also
