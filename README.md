@@ -6,7 +6,6 @@ Note : This project has been realised in the
 framework of the Coursera online 
 specialisation in Data Science (Reproducible reasearch).
 
-
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
@@ -27,7 +26,13 @@ day. The data consists of two months of data from an anonymous
 individual collected during the months of October and November, 2012
 and include the number of steps taken in 5 minute intervals each day.
 
-A detailed report of the whole study can be found in the repository : "Daily_activity.md"
+In this repository you will find :
+
+* A detailed report of the whole study can be found in the repository : "Daily_activity.md"
+* The source file of this report written in R markdown : "Daily_activity.Rmd"
+* The .zip and .csv files containing the activity data
+* A folder containing the different plots
+* An HTML version of the report : "Daily_activity.html"
 
 ## Data
 
