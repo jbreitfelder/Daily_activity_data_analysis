@@ -3,8 +3,9 @@
 ## Author : Joanne Breitfelder
 
 Note : This project has been realised in the 
-framework of the Coursera online 
-specialisation in Data Science (Reproducible reasearch).
+framework of the online specialisation in Data Science 
+provided by the Johns Hopkins University (Baltimore),
+and available on the Coursera web site. 
 
 ## Introduction
 
