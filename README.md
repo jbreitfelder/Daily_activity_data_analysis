@@ -1,4 +1,3 @@
-
 ## Daily activity - Readme
 ## Author : Joanne Breitfelder
 
